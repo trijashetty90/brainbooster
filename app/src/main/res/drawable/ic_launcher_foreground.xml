@@ -1,0 +1,49 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Left Brain Hemisphere -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M50,28 C42,28 36,33 34,39 C30,40 27,45 28,51 C26,56 29,62 33,65 C32,71 36,77 42,79 C46,80 50,78 50,78 L50,28 Z" />
+
+    <!-- Right Brain Hemisphere (Digital / Analytical Logic) -->
+    <path
+        android:fillColor="#A855F7"
+        android:pathData="M58,28 C66,28 72,33 74,39 C78,40 81,45 80,51 C82,56 79,62 75,65 C76,71 72,77 66,79 C62,80 58,78 58,78 L58,28 Z" />
+
+    <!-- Central Aptitude Spark / Lightning Bolt -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M55,24 L45,51 L53,51 L49,84 L63,49 L55,49 Z" />
+
+    <!-- Synapse Nodes -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M37,45 A3,3 0 1,0 37,45.01 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M43,62 A2.5,2.5 0 1,0 43,62.01 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M71,45 A3,3 0 1,0 71,45.01 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M65,62 A2.5,2.5 0 1,0 65,62.01 Z" />
+
+    <!-- Connecting Neural Tracks -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.2"
+        android:strokeAlpha="0.6"
+        android:pathData="M37,45 L43,62 M71,45 L65,62" />
+
+    <!-- Small Star Accent -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M54,16 L55.5,20 L59.5,20.5 L56.5,23 L57.5,27 L54,24.8 L50.5,27 L51.5,23 L48.5,20.5 L52.5,20 Z" />
+</vector>

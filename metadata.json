@@ -1,0 +1,6 @@
+{
+  "name": "BrainBoost",
+  "description": "BrainBoost: Academic Project Suite featuring Sector 1 Cognitive Mini-Games, Sector 2 AI-Powered IndiaBIX Aptitude Road, and College Project Engineering Report.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
